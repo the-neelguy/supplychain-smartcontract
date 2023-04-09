@@ -8,7 +8,7 @@ The working of the smart contract is stated below:
 3. The stakeholders can add themselves into the network without the consent of any central authority. Also each of them are defined with specific set of roles.
 4. The Roles of a farmer are defined below:
 
-•	A farmer first produces their raw matrials and list them in the contract
+•	A farmer first produces their raw matrials and list them in the contract <br>
 •	A farmer can choose which items to sell and list them for selling with appropriate price
 •	When a manufacturer buys with the proper amount, the farmer can ship the product to the manufacturer
 
