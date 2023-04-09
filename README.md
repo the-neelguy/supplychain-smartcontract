@@ -14,11 +14,11 @@ The working of the smart contract is stated below:
 
 5. The Roles of a manufacturer are defined below:
 
-5.1 The Manufacture can buy product from any farmer with instant payment method
-5.2 The Manufacturer then processes the raw materials
-5.3 It moves on to packaging
-5.4 Finally the manufacturer list its product for sell with appropriate price
-5.5 After a distributor buys with the proper amount, the manufacturer ships the product to the distributor
+*5.1 The Manufacture can buy product from any farmer with instant payment method
+*5.2 The Manufacturer then processes the raw materials
+*5.3 It moves on to packaging
+*5.4 Finally the manufacturer list its product for sell with appropriate price
+*5.5 After a distributor buys with the proper amount, the manufacturer ships the product to the distributor
 
 6. The Roles of a distributor are defined below:
 
